@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Activity Tracker</string>
+    <string name="sign_in_splash_screen">Sign In</string>
+</resources>
